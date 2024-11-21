@@ -1,0 +1,4 @@
+creando entorno virtual>
+python3 -m tutorial-env 
+luego activamos el entrono virtual>
+tutorial-env\Scripts\activate.bat
