@@ -68,3 +68,5 @@ La tabla muestra las películas guardadas en la base de datos con las columnas d
 
 2. **¿Cómo elimino una película del catálogo?**
    - Selecciona la película en la tabla y haz clic en "Eliminar".
+
+creado por Cristian Vargas. Cargado desede user mat01022001 con correo 00010020@uca.edu.sv . 
